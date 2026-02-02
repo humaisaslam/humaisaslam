@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/humaisaslam"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/humaisaslam/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/humaisaslam"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:humaisaslam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
@@ -94,12 +94,6 @@ pie
 ![Humais's GitHub stats](https://github-readme-stats.vercel.app/api?username=humaisaslam&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humaisaslam&layout=compact&theme=radical)
 
----
-
-## 🏆 Trophy Cabinet
-![trophy](https://github-profile-trophy.vercel.app/?username=humaisaslam&theme=dracula&no-frame=true)
-
----
 
 ## 🎯 Currently Exploring
 - Self-correcting **RAG pipelines**
