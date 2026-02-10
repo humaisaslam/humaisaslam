@@ -27,19 +27,6 @@ I’m currently focused on **growing my skills**, understanding real-world AI wo
 
 ---
 
-## 🧠 What I Know
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,mongodb,figma" />
-</p>
-- Python for data analysis and machine learning  
-- Basics of **LLMs and Retrieval-Augmented Generation (RAG)**  
-- Computer Vision using CNNs and YOLO  
-- Backend APIs with FastAPI and Django  
-- UI/UX design using Figma
-
----
-
 ## 🛠️ Tools & Technologies
 
 * **Languages:** Python, SQL
@@ -74,26 +61,11 @@ I’m currently focused on **growing my skills**, understanding real-world AI wo
 
 ---
 
-## 💼 Experience (Internships & Junior Roles)
-
-* **AI Engineering Intern — Pakistan Navy**
-  Worked on prompt tuning, simple RAG pipelines, and internal AI tools
-
-* **Junior AI Developer — Olive Digital**
-  Assisted in building chatbots and computer vision systems
-
-* **UI/UX Designer — TechBrio**
-  Designed interfaces for web and mobile applications
-
----
-
 ## 🎯 Currently Learning
 
 <img align="left" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" />
-- Improving ML fundamentals  
-- Better understanding of LLMs and RAG  
-- Model evaluation and deployment basics
-
+- Improving Research Fundamentals
+- Better understanding of Agentic AI , Multimodal Rags
 ---
 
 ## 📬 Contact
