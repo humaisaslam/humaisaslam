@@ -1,118 +1,114 @@
 <!-- ====== Muhammad Humais Aslam ====== -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=300&color=00D1FF&center=true&vCenter=true&repeat=true&width=680&lines=Hi%2C+I'm+Muhammad+Humais+Aslam;AI+Engineer+%7C+LLM+%26+RAG+Specialist;Computer+Vision+%7C+Multimodal+AI;Building+Hallucination-Resistant+AI+Systems" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=400&color=00D1FF&center=true&vCenter=true&repeat=true&width=520&lines=Hi%2C+I'm+Muhammad+Humais+Aslam;Fresh+AI+Graduate;Learning+AI+%26+Machine+Learning" />
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/humaisaslam/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/humaisaslam"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:humaisaslam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/humaisaslam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/humaisaslam"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:humaisaslam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🧠 About Me
-🎓 **AI Graduate — Bahria University, Karachi**
-
-I am an **AI Engineer** specializing in **LLMs, Retrieval-Augmented Generation (RAG), and Computer Vision**, with strong experience in **multimodal AI systems** and **production-ready deployments**.
-
-I focus on **grounded, evaluation-driven AI** — reducing hallucinations, improving reliability, and designing systems that actually ship.
-
-I also bring **UI/UX expertise**, enabling me to build AI products that are not only intelligent, but usable.
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 
 ---
 
-## 🔬 Tech DNA (always visible)
+## 👋 About Me
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-pie
-    title Skill Distribution
-    "Python & Machine Learning" : 35
-    "LLMs / RAG Systems" : 25
-    "Computer Vision" : 20
-    "Backend & APIs" : 10
-    "UI/UX Design" : 10
-```
+🎓 **BS Artificial Intelligence (Fresh Graduate)**
+**Bahria University, Karachi**
+
+I'm a **fresh AI graduate** with practical experience in **machine learning, basic LLM/RAG systems, and computer vision**. I enjoy learning by building projects and turning ideas into working applications.
+
+I’m currently focused on **growing my skills**, understanding real-world AI workflows, and preparing myself for **entry-level AI / ML roles**.
 
 ---
 
-## 🛠️ Core Arsenal
+## 🧠 What I Know
 
-| **Domain** | **Tools & Frameworks** |
-|-----------|------------------------|
-| **LLMs & RAG** | OpenAI • LangChain • RAG • FAISS • Chroma • Prompt Engineering |
-| **Machine Learning** | Python • PyTorch • TensorFlow • Transformers |
-| **Computer Vision** | YOLO • CNNs • Medical Imaging |
-| **Backend** | FastAPI • Flask • SQLite • MongoDB |
-| **Automation** | n8n • API Pipelines • Inference Optimization |
-| **Design** | Figma • Adobe XD • UX Research • Design Systems |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Impact |
-|-------|------|--------|
-| 🫁 **Pneumedlex (FYP)** | PyTorch, Transformers, MIMIC-IV | Multimodal pneumonia detection using clinical text + X-ray imaging to reduce false negatives |
-| 🗣️ **Voice-Enabled AI Chatbot** | GPT-4, Whisper, Neural TTS | Full-duplex conversational AI with real-time speech interaction |
-| 🛒 **Offline Desktop POS** | Electron, SQLite | Inventory & billing system with thermal receipt printing and offline-first reliability |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,mongodb,figma" />
+</p>
+- Python for data analysis and machine learning  
+- Basics of **LLMs and Retrieval-Augmented Generation (RAG)**  
+- Computer Vision using CNNs and YOLO  
+- Backend APIs with FastAPI and Django  
+- UI/UX design using Figma
 
 ---
 
-## 🧪 Research & Professional Experience
+## 🛠️ Tools & Technologies
 
-### 🏢 AI Research Intern — **Bahria Technologies**
-- Engineered **RAG pipelines** to reduce hallucinations in domain-specific LLMs  
-- Analyzed **context window mechanics**, chunking strategies, and retrieval relevance  
-- Improved answer grounding via retrieval-first inference architectures  
-
-### 🤖 Junior AI Developer — **Olive Digital**
-- Deployed **NLP and Computer Vision models** in production environments  
-- Optimized inference pipelines for latency and scalability  
-- Integrated AI models into backend APIs  
-
-### 🎨 Senior UI/UX Designer — **Tech Brio Pvt Ltd**
-- Led end-to-end **product design** for SaaS and E-commerce platforms  
-- Delivered pixel-perfect **Figma → developer handoff systems**  
-- Worked with international clients on usability and conversion optimization  
+* **Languages:** Python, SQL
+* **ML/DL:** PyTorch, TensorFlow, Scikit-learn
+* **LLMs:** OpenAI APIs, LangChain (basic)
+* **Computer Vision:** YOLO, OpenCV
+* **Backend:** FastAPI, Django, Flask
+* **Databases:** MongoDB, SQLite
+* **Design:** Figma
 
 ---
 
-## 📈 Skill Snapshot
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C1C1C?style=flat)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## 📂 Projects
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+
+### 🫁 PneuMedLex (Final Year Project)
+
+* Multimodal pneumonia detection using **medical images and clinical text**
+* Learned how to combine **CNNs with NLP models**
+* Built a simple backend to serve predictions
+
+### 🤖 RAG-Based AI Assistant
+
+* Built a basic **RAG pipeline** to improve answer relevance
+* Experimented with document chunking and embeddings
+
+### 🚗 Vehicle License Plate OCR
+
+* Detected and recognized vehicle number plates using **YOLO and OCR**
+* Worked with large annotated image datasets
 
 ---
 
-## 📊 GitHub Stats
-![Humais's GitHub stats](https://github-readme-stats.vercel.app/api?username=humaisaslam&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humaisaslam&layout=compact&theme=radical)
+## 💼 Experience (Internships & Junior Roles)
 
+* **AI Engineering Intern — Pakistan Navy**
+  Worked on prompt tuning, simple RAG pipelines, and internal AI tools
 
-## 🎯 Currently Exploring
-- Self-correcting **RAG pipelines**
-- Multimodal medical AI (text + imaging)
-- LLM evaluation, grounding, and hallucination mitigation
+* **Junior AI Developer — Olive Digital**
+  Assisted in building chatbots and computer vision systems
 
----
-
-## ⚡ Beyond Code
-🏆 Competitive **CS2 Tournament Player** (PROCOM, Evolve 24)  
-🏋️ Fitness-driven, discipline-focused mindset  
+* **UI/UX Designer — TechBrio**
+  Designed interfaces for web and mobile applications
 
 ---
 
-## 📬 Let’s Build Something
-<a href="mailto:humaisaslam@gmail.com">
-  <img src="https://img.shields.io/badge/📩-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🎯 Currently Learning
+
+<img align="left" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" />
+- Improving ML fundamentals  
+- Better understanding of LLMs and RAG  
+- Model evaluation and deployment basics
 
 ---
 
-⭐ **Research-driven. Production-ready. Design-aware.**
+## 📬 Contact
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D1FF,100:6A5ACD&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff" />
+</p>
+
+* 📧 Email: **[humaisaslam@gmail.com](mailto:humaisaslam@gmail.com)**
+* 💼 LinkedIn: [linkedin.com/in/humaisaslam](https://www.linkedin.com/in/humaisaslam/)
+* 💻 GitHub: [github.com/humaisaslam](https://github.com/humaisaslam)
+* 📧 Email: **[humaisaslam@gmail.com](mailto:humaisaslam@gmail.com)**
+* 💼 LinkedIn: [linkedin.com/in/humaisaslam](https://www.linkedin.com/in/humaisaslam/)
+* 💻 GitHub: [github.com/humaisaslam](https://github.com/humaisaslam)
+
+---
+
+⭐ *Fresh graduate, eager to learn and grow in AI.*
