@@ -105,9 +105,6 @@ I’m currently focused on **growing my skills**, understanding real-world AI wo
 * 📧 Email: **[humaisaslam@gmail.com](mailto:humaisaslam@gmail.com)**
 * 💼 LinkedIn: [linkedin.com/in/humaisaslam](https://www.linkedin.com/in/humaisaslam/)
 * 💻 GitHub: [github.com/humaisaslam](https://github.com/humaisaslam)
-* 📧 Email: **[humaisaslam@gmail.com](mailto:humaisaslam@gmail.com)**
-* 💼 LinkedIn: [linkedin.com/in/humaisaslam](https://www.linkedin.com/in/humaisaslam/)
-* 💻 GitHub: [github.com/humaisaslam](https://github.com/humaisaslam)
 
 ---
 
