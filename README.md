@@ -1,9 +1,5 @@
 <!-- ====== Muhammad Humais Aslam ====== -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=400&color=00D1FF&center=true&vCenter=true&repeat=true&width=520&lines=Hi%2C+I'm+Muhammad+Humais+Aslam;Fresh+AI+Graduate;Learning+AI+%26+Machine+Learning" />
-</h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/humaisaslam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/humaisaslam"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
